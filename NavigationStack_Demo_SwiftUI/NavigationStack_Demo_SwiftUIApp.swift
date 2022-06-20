@@ -11,7 +11,7 @@ import SwiftUI
 struct NavigationStack_Demo_SwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            PersonsTableView()
         }
     }
 }
